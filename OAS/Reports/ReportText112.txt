@@ -1,0 +1,20 @@
+Id              Name               Question             Answer
+FA12-BCS-10              Computer Vision              What is pixel in term of computer Graphics?      Pixel is the smallest unit of the computer graphics, all the pictures and graphics are ultimately made of so many pixels. Without it the graphics are not possible.
+FA12-BCS-13              Computer Vision              What is pixel in term of computer Graphics?      pixel is the basic unit of programmable color on a computer display or in a computer image. Think of it as a logical  rather than a physical  unit. A Graphics Interchange Format file, for example, contains a bitmap of an image.
+
+FA12-BCS-14              Computer Vision              What is pixel in term of computer Graphics?      pixel is the basic unit of programmable color on a computer display or in a computer image. Think of it as a logical  rather than a physical  unit. A Graphics Interchange Format file, for example, contains a bitmap of an image.
+
+FA12-BCS-16              Computer Vision              What is pixel in term of computer Graphics?       In computer graphics Pixel is the basic logical unit. Pixels are joined to shape an entire picture, video, content or any visible thing on a PC show. Pixel are also known as picture element. 
+
+FA12-BCS-17              Computer Vision              What is pixel in term of computer Graphics?      Pixel is the smallest part or unit of the image that is displayed on television screen, on a printer and on the different type of computers. In a single image pixels are divided into rows and columns. We can estimate the result of an image by pixels. As the number of pixels increase the result of an image will be more clear and good.
+
+FA12-BCS-18              Computer Vision              What is pixel in term of computer Graphics?      a pixel is a smallest portion of an image which combines together to form a image. a single image has many pixels, so we can say that pixel is a unit of image. it has some value which represents color.
+FA12-BCS-19              Computer Vision              What is pixel in term of computer Graphics?      Pixel is a smallest unit or dot on computer display or image which have a color.
+FA12-BCS-21              Computer Vision              What is pixel in term of computer Graphics?      Pixel is smalest element of a pic, in other words we can say that an image is composed of many pixels.
+FA12-BCS-23              Computer Vision              What is pixel in term of computer Graphics?      The single point in two co-ordinates (x,y) forms  a pixel on screen. A simple image consist of thousands of pixels which join to form a single picture.
+FA12-BCS-24              Computer Vision              What is pixel in term of computer Graphics?      A pixel (short for picture element, using the common abbreviation "pix" for "picture") is one of the many tiny dots that make up the representation of a picture in a computer’s memory. Each such information element is not really a dot, nor a square, but an abstract sample.
+FA12-BCS-25              Computer Vision              What is pixel in term of computer Graphics?      Pixel is the basic unit of programmable color on a display or in a computer image. Think of it as a logical - rather than a physical - unit. The physical size of a pixel depends on how you've set the resolution for the display screen.
+
+FA12-BCS-27              Computer Vision              What is pixel in term of computer Graphics?      A pixel is one of the many illuminated tiny dots that make up the representation of a picture in a computer's memory.
+
+FA12-BCS-29              Computer Vision              What is pixel in term of computer Graphics?      Pixel Key Word Is Use as a element of a picture. A pixel is a single point in a graphic image. Thousands (or millions) of pixels are used to make a picture also give resolution of picture.

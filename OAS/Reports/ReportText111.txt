@@ -1,0 +1,22 @@
+Id              Name               Question             Answer
+FA12-BCS-10              Operating System              What is Operating System?      Operating system is the software which is closest software connected to tha hardware it manges all the activities and procedures and processes and programs of the system from start to end.
+FA12-BCS-12              Operating System              What is Operating System?      Operating system  is utilized by each  general computer to run different programs and applications.It is a Software that speaks with the equipment of the computer system and permits program to run.It performs undertakings, for example, perceiving the contribution from information gadgets and sending output to the show screen furthermore controlling the peripheral devices, for example, printers.It is likewise in charge of security that unapproved clients don't get to the system.
+FA12-BCS-13              Operating System              What is Operating System?      The operating system is the most important program that runs on a computer. Every general purpose computer must have an operating system to run other programs and applications.
+FA12-BCS-14              Operating System              What is Operating System?      The operating system is the most important program that runs on a computer. Every general purpose computer must have an operating system to run other programs and applications.
+FA12-BCS-16              Operating System              What is Operating System?      A software system that manages software and hardware resources and common services provide of computer program. Excluding firmware all program require an operating system to function.
+
+FA12-BCS-17              Operating System              What is Operating System?      An operating system is the software of system that can manages the hardware of computer and software resources and provide some basic services for programs of computer. So we can say that this type of software are designed to handle the some basic operations of computer like sending the instructions to hardware’s devices such as disk driver and computer screen.
+
+FA12-BCS-18              Operating System              What is Operating System?      operating system is software that helps to execute basic functions such as scheduling of task and executing application and showing input output.
+FA12-BCS-19              Operating System              What is Operating System?      Operating System is a software that manages computer hardware and software resources and perform basic functions e.g file management, memory management and handle Input /Output.
+FA12-BCS-20              Operating System              What is Operating System?      An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware.
+
+FA12-BCS-21              Operating System              What is Operating System?      Operating system helps build to support the basic functionality of computer it plays important role in basic functionality of system such as schedule management.
+FA12-BCS-23              Operating System              What is Operating System?      Operating system is the layer between hardware and software of any machine, which operates the   system and make it easier for user to communicate with hardware for their problems.
+
+FA12-BCS-24              Operating System              What is Operating System?      An operating system is system software that manages computer hardware and software resources and provides common services for computer programs.
+
+FA12-BCS-25              Operating System              What is Operating System?      The low-level software that supports a computer's basic functions, such as scheduling tasks and controlling peripherals.
+
+FA12-BCS-27              Operating System              What is Operating System?      Each Software that supports a computer's basic functions,  scheduling tasks, executing applications LINIX operating system.
+FA12-BCS-29              Operating System              What is Operating System?      It is low-level software that supports a computer's basic functions such as scheduling tasks and controlling peripherals. operating system also use to run a system or PC. It is very important software for a system.

@@ -1,0 +1,20 @@
+Id              Name               Question             Answer
+FA12-BCS-10              Machine Learning              What is machine learning?      Machine learning is the process by which a machine gets input from the environment ( which can be general or specific)  analysis that input and calculate the result on its own by getting different types of inputs.
+FA12-BCS-12              Machine Learning              What is machine learning?      It is the study of motivating computers to act without being expressly programmed.A method for instructing computers to make and enhance expectations or practices in light of a few information.
+
+FA12-BCS-13              Machine Learning              What is machine learning?       Machine learning focuses on the development of computer programs that can teach themselves to grow and change when exposed to new data.
+FA12-BCS-14              Machine Learning              What is machine learning?       Machine learning focuses on the development of computer programs that can teach themselves to grow and change when exposed to new data.
+FA12-BCS-16              Machine Learning              What is machine learning?      Machine learning is a type of artificial intelligence (AI) that enhances the ability to improve its own performance of a machine. Machine learning concentrates on the advancement of computer program that can show themselves to develop and change when presented to new information. 
+
+FA12-BCS-17              Machine Learning              What is machine learning?      As the name is showing its significance machine learning is the ability of machine to improve the results and performance on the bases of previous results. Machine learning is the class that teach us the end to end process of data investigation.  In this class we have to identify the and extract the useful features that will represent the data in best way and most important machine learning algorithms.
+
+FA12-BCS-18              Machine Learning              What is machine learning?      Machine learning is knowledge which we give to machine so that it can identify that object or similar object next time on basis of previous knowledge.
+FA12-BCS-19              Machine Learning              What is machine learning?       Machine learning is a type of AI that gives the ability to learn without explicitly programmed.
+FA12-BCS-21              Machine Learning              What is machine learning?      Ability of machine like thinking and recognizing objects on the basis of previous knowledge.
+FA12-BCS-23              Machine Learning              What is machine learning?      Machine learning is the algorithms to operate the machine. This learning provides an efficient way for machine to work. Machine learning is the about the learning of different ways to do a same job for a machine.
+
+FA12-BCS-24              Machine Learning              What is machine learning?      Ability of a machine to improve its own performance through the use of a software that employs artificial intelligence techniques to mimic the ways by which humans seem to learn, such as repetition and experience.
+FA12-BCS-25              Machine Learning              What is machine learning?      It is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. It focus on the development of computer programs that can teach themselves to grow and change when exposed to new data.
+FA12-BCS-27              Machine Learning              What is machine learning?      Machine learning is a method of data analysis that automates analytical model building. Using algorithms that iteratively learn from data.
+FA12-BCS-29              Machine Learning              What is machine learning?      Machine learning is a type of artificial intelligence (AI) that helps computers with Programmed. Machine learning focuses on the development of computer programs that can teach themselves to grow and change when new data is arrived.
+
